@@ -1,0 +1,2 @@
+# CRUD-JAVA-Project
+This Project is based on CRUD i.e Create, Read, Update and Delete. In this project you can save a student's First Name , Last Name and user id and store these information in mySQL database. Later you can retrieve this information from the DB and can use update this information. You can also delete an uploaded DB. This project will be helpful for the developers who want to enter in the world of DBMS. 
